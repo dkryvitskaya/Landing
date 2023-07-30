@@ -57,6 +57,10 @@ button:hover {
     background-color: rgb(170, 170, 170);
 }
 
+button:active {
+    background-color: rgb(1300, 130, 130);
+}
+
 a {
     text-decoration: none;
     cursor: pointer;
